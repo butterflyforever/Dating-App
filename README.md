@@ -7,4 +7,4 @@ This is a software engineering course project. This app is used to help people g
 
 ## UI & Algorithm
 
-See
+See Dating-App.pdf
