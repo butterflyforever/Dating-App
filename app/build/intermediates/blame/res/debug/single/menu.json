@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/menu/toolbar.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/menu/toolbar.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/menu/toolbar2.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/menu/toolbar2.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/menu/toolbar_detail.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/menu/toolbar_detail.xml"
+    }
+]

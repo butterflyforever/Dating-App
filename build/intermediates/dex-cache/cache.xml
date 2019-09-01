@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.jpeng/JPTabBar/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="390707140f55438a082e3c5100352946153eee88">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.jpeng-JPTabBar-1.1.2_8c6e602e57b49e14c615de982e126eb2d2e4ae06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_105a5fd3146438a647ea9d5d9af4c034affa9235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_45063a62c3544fcfa9f97cf37c54bdd1d3a5ee51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_6040b9bafff45a1b214fbe1530acd78a25153660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/library-2.4.0_f4cdc6d602aa682ce68fba42099ef41ec8d49dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/libs/jsch-0.1.52.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2c608943b8b46078144d261fa4ff7d9e77c2eae">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/jsch-0.1.52_13a3f595454b6c6f8c2ab7b1e4cdd32d0511a98f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_ddb948db94f734238728ce6214cdf378de8abaa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_715694cf937c9f415a50a8cf4edead18d2831616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/.gradle/caches/modules-2/files-2.1/com.facebook.rebound/rebound/0.3.8/c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e/rebound-0.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/rebound-0.3.8_9cf8e4c2ee5236597b5955d52181f3e6732d4aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.github.clans-fab-1.6.4_59b0150b7c93efa8b6687f1cf97e88e0eed4be3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_a1aeb22bf4b5e422c5d67b03bfdf3a632ed85912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/libs/hyphenatechat_3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597133549fe8957d0f5382c43f5a128167b2865a">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/hyphenatechat_3.3.2_cedcb3263df9327457e4e881978fdfba75971350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_6e9bb946a0ac5adfb15a3fffa5a9498854e6c84c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_f9591d9911cd8023599626d0b48cb49c7d3dae7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_87c2ef741d286302099ea1c0d43915326267dc35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_bc65262925cc53abc833789e6ec0d4a3ab373234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_b21e5efabb691f77b152dfd1e0dd74764399d933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_c605ebbdb45451e37bffa40072e61c65a279056f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_092e475f1d838535648afc2bc326b57db87177f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_5675c5ed43f8788e68cf6051def511f2638f4c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_79abd9d9219f2f37de48b663967384421a80cd5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/libs/AMap3DMap_5.0.0_AMapNavi_5.1.0_AMapLocation_3.4.0_20170515.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33ccdd3ce1618d058e63a7d0c1e7a945d40bac06">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/AMap3DMap_5.0.0_AMapNavi_5.1.0_AMapLocation_3.4.0_20170515_98e429ba5cffd1167513928c6761fb4bd460ed82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_0bcb87f1c01ce0a64f79343a076404238bcb375c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.hjm/BottomTabBar/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09f432a3fad2f5e76402df142f4ed918cef29574">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.hjm-BottomTabBar-1.1.0_8385261e7632d3bc5e9ea471b5b4e0e56d1313c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_c1368debec0a9747d86b977c6022189c0fcdb3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1687bb7a65a28c3346306c45c31217de2046462">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android_67c4e34280960f730a4533263c5b0dd84752136d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pro/Documents/Development/Android/project_old/Test1/app/libs/mysql-connector-java-5.1.18-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85dfedad243dc0303ad7ae3a323c39421d220690">
+        <dex dex="/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/pre-dexed/debug/mysql-connector-java-5.1.18-bin_1aa819fb577890f9326d57e41384ad003ed5ff0d.jar" />
+    </item>
+
+</items>

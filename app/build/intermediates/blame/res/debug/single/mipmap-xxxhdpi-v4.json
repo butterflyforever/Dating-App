@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/recommend.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/mipmap-xxxhdpi/recommend.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/talk.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/mipmap-xxxhdpi/talk.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/me.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/mipmap-xxxhdpi/me.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/find.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/mipmap-xxxhdpi/find.jpg"
+    }
+]

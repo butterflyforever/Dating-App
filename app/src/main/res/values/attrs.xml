@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+    <declare-styleable name="SatelliteMenu">
+        <attr name="expandDuration" format="integer" />
+        <attr name="closeOnClick" format="boolean" />
+        <attr name="totalSpacingDegree" format="float" />
+        <attr name="satelliteDistance" format="dimension" />
+        <attr name="mainImage" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="listviewme">
+
+    </declare-styleable>
+    <attr name="postion">
+        <enum name="left_top" value="0"></enum>
+        <enum name="left_bottom" value="1"></enum>
+        <enum name="right_top" value="2"></enum>
+        <enum name="right_bottom" value="3"></enum>
+    </attr>
+
+    <attr name="radius" format="dimension" />
+
+    <!--<declare-styleable name="ArcMenu">
+        <attr name="position" />
+        <attr name="radius" />
+    </declare-styleable>-->
+</resources>

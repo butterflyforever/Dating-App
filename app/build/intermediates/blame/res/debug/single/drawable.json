@@ -1,0 +1,826 @@
+[
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/nocircle.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/nocircle.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chatfrom_bg.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chatfrom_bg.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/bourkestreetbakery.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/bourkestreetbakery.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/gurang20.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/gurang20.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/bg.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/bg.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy1.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy1.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ease_groups_icon.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ease_groups_icon.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/yandangshan3.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/yandangshan3.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/circle.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/circle.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/sat_main.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/sat_main.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/hengdian6.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/hengdian6.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/lingyinsi13.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/lingyinsi13.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy3.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy3.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_menu_gallery.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_3.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_3.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/lanting24.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/lanting24.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/app_list_corner_round_bottom.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/app_list_corner_round_bottom.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/changyudongtian28.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/changyudongtian28.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/xishan4.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/xishan4.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl8.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl8.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chat1.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chat1.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/binjiangdadao31.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/binjiangdadao31.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/barrafina.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/barrafina.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_1.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_1.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/leifengta17.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/leifengta17.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_menu_camera.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shanghaidajuyuan39.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shanghaidajuyuan39.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/xixi11.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/xixi11.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/tongrenlu58.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/tongrenlu58.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/find1.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/find1.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/me1.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/me1.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shanghaidongwuyuan41.jpeg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shanghaidongwuyuan41.jpeg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl5.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl5.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/default_avatar.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/default_avatar.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy8.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy8.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/palominoespresso.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/palominoespresso.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy7.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy7.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/donostia.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/donostia.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl4.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl4.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_menu_slideshow.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/qiandaohu2.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/qiandaohu2.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chenghuangmiao38.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chenghuangmiao38.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/luxunguli30.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/luxunguli30.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/yunhetitian27.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/yunhetitian27.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/damingshan29.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/damingshan29.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy9.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy9.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/app_list_corner_round.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/app_list_corner_round.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/dongshan21.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/dongshan21.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/xintiandi34.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/xintiandi34.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl3.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl3.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chatto_bg.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chatto_bg.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/recommend2.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/recommend2.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shanxinanlu50.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shanxinanlu50.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/posatelier.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/posatelier.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/royaloak.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/royaloak.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/app_list_corner_shape.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/app_list_corner_shape.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/me.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/me.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chatfrom_bg_focused.9.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chatto_bg_normal.9.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/fiveleaves.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/fiveleaves.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/timestampe_bg.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/timestampe_bg.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chengsi19.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chengsi19.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/tianailu33.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/tianailu33.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/teakha.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/teakha.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/kejiguan36.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/kejiguan36.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/wafflewolf.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/wafflewolf.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy2.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy2.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/haiyangshijie57.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/haiyangshijie57.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/zhugebaguacun26.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/zhugebaguacun26.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/em_logo_uidemo.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/em_logo_uidemo.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chatfrom_bg_normal.9.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_menu_send.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/forkeerestaurant.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/forkeerestaurant.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_2.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_2.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/moganshanluyishujie60.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/moganshanluyishujie60.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/check_left_btn.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/check_left_btn.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl9.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl9.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/zhexidaxiagu16.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/zhexidaxiagu16.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/find2.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/find2.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_menu_manage.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/right_btn_select.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/right_btn_select.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_menu_share.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/talk.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/talk.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/longhuasi52.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/longhuasi52.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/recommend1.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/recommend1.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/cafedeadend.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/cafedeadend.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/traif.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/traif.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/xvjiahuigongyuan55.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/xvjiahuigongyuan55.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/qiuxiapu46.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/qiuxiapu46.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/linjianggongyuan45.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/linjianggongyuan45.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/jinjiangleyuan32.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/jinjiangleyuan32.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/fengjingguzhen47.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/fengjingguzhen47.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/jiaxingnanhu7.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/jiaxingnanhu7.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ease_group_icon.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ease_group_icon.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl2.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl2.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/tianyibowuguan23.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/tianyibowuguan23.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy4.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy4.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy10.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy10.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/upstate.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/upstate.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/tianmushan15.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/tianmushan15.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/putuoshan5.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/putuoshan5.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/msg_state_fail_resend_pressed.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/msg_state_fail_resend_pressed.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ease_msg_state_fail_resend.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ease_msg_state_fail_resend.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_4.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_4.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ease_unread_count_bg.9.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ease_unread_count_bg.9.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/renminguangchang37.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/renminguangchang37.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/yinqixinghuaxvechang42.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/yinqixinghuaxvechang42.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/gongqingsenlingongyuan56.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/gongqingsenlingongyuan56.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/songcheng18.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/songcheng18.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shaoxingdonghu8.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shaoxingdonghu8.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chatto_bg_focused.9.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/find.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/find.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shuanglongdong14.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shuanglongdong14.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/cafeloisl.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/cafeloisl.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/cafelore.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/cafelore.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/em_splash.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/em_splash.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/qiantangjiang10.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/qiantangjiang10.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shanghailaxiangguan43.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shanghailaxiangguan43.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/main.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/main.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shijigongyuan59.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shijigongyuan59.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/baicaoyuan25.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/baicaoyuan25.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/nanxijiang9.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/nanxijiang9.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/sat_item.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/sat_item.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/petiteoyster.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/petiteoyster.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/left_btn_select.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/left_btn_select.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/right_btn.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/right_btn.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy6.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy6.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/recommend.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/recommend.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/redaifengbao53.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/redaifengbao53.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_6.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_6.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/add_icon.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/add_icon.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/me2.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/me2.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl6.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl6.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/wusongpaotaishidigongyuan54.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/wusongpaotaishidigongyuan54.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/haighschocolate.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/haighschocolate.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/app_list_corner_round_top.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/app_list_corner_round_top.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/xihu1.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/xihu1.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/boy5.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/boy5.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl10.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl10.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/qibaoguzhen44.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/qibaoguzhen44.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl7.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl7.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shanghaizhiwuyuan49.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shanghaizhiwuyuan49.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/jignansi40.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/jignansi40.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/girl1.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/girl1.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/em_msg_state_fail_resend.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/em_msg_state_fail_resend.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/grahamavenuemeats.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/grahamavenuemeats.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/moganshan12.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/moganshan12.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/check_right_btn.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/check_right_btn.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/ic_5.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/ic_5.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/wujianglu35.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/wujianglu35.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/laowaitan22.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/laowaitan22.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/confessional.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/confessional.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/homei.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/homei.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shanghaimaxicheng48.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shanghaimaxicheng48.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/caskpubkitchen.jpg",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/caskpubkitchen.jpg"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/chat2.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/chat2.png"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/left_btn.xml",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/left_btn.xml"
+    },
+    {
+        "merged": "/Users/pro/Documents/Development/Android/project_old/Test1/app/build/intermediates/res/merged/debug/drawable/shanghaiyinyueting51.png",
+        "source": "/Users/pro/Documents/Development/Android/project_old/Test1/app/src/main/res/drawable/shanghaiyinyueting51.png"
+    }
+]

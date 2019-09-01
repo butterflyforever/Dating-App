@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="exit">exit</string>
+    <string name="exit_app">exit_app</string>
+    <string name="cancel">cancel</string>
+    <string name="confirm">confirm</string>
+</resources>
